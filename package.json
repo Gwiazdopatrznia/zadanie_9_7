@@ -1,7 +1,7 @@
 {
-  "name": "zadanie_9_6",
+  "name": "zadanie_9_7",
   "version": "1.0.0",
-  "description": "https://gwiazdopatrznia.github.io/zadanie_9_6/",
+  "description": "https://gwiazdopatrznia.github.io/zadanie_9_7/",
   "main": "index.js",
   "scripts": {
     "test": "npm-run-all test:*",
@@ -24,15 +24,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gwiazdopatrznia/zadanie_9_6"
+    "url": "git+https://github.com/Gwiazdopatrznia/zadanie_9_7"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Gwiazdopatrznia/zadanie_9_6/issues"
+    "url": "https://github.com/Gwiazdopatrznia/zadanie_9_7/issues"
   },
-  "homepage": "https://github.com/Gwiazdopatrznia/zadanie_9_6#readme",
+  "homepage": "https://github.com/Gwiazdopatrznia/zadanie_9_7#readme",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.23.6",
